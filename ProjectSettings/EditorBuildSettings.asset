@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IniciaMusica.unity
+    guid: d70966222a1b79b47a88db9d68d1b335
+  - enabled: 1
+    path: Assets/Scenes/PlayerIdentification.unity
+    guid: a942bda1d781dce4f971352543045dda
+  - enabled: 1
+    path: Assets/Scenes/Ajuda.unity
+    guid: 274e62764d991a3459db243065531b5f
+  - enabled: 1
+    path: Assets/Scenes/Configuracao.unity
+    guid: 9a423045b2465064ebe8f7f41a996c9d
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: e6afa24cf08e9fb4cbc6f416bcf43e3f
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b347e8a5d483aab43bb62d4f0f10c59c
+  - enabled: 1
+    path: Assets/Scenes/StoryBoard.unity
+    guid: 942b7089a9996d9449baec08efda1182
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase2.unity
+    guid: e24a025d2906db24ca8c2bc300f163fe
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase3.unity
+    guid: 3cc74954c69383b468fe45f2d28ef608
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase4.unity
+    guid: 1bd11cdd97496b245b74c54184cb4893
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase5.unity
+    guid: bdef9c49d40c4e549aa2ad1b1f9b5acf
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase6.unity
+    guid: 5d2997c7568afef40adec5693c791204
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase7.unity
+    guid: 27af77b0c5cf2c84e89e7ab57cef29cf
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase8.unity
+    guid: dfee2375451e408459cdc5e3f86cacb7
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase9.unity
+    guid: 9086eb199eb8d824691a72fd3311559c
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase10.unity
+    guid: 7a4d00f16a12893428153d8aac8d1aa5
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase11.unity
+    guid: b8166dee381862848b49e0116dfba681
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase12.unity
+    guid: 6fbb89c8ed07caf4ab94b39015812dc4
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase13.unity
+    guid: b8a1e3b22fe717443a9fff9417787828
+  - enabled: 1
+    path: Assets/Scenes/SelecaoFases.unity
+    guid: 21610e49c1ef6904091ee54093052eed
+  m_configObjects: {}

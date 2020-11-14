@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "947891305588",
+    "firebase_url": "https://teste-57287.firebaseio.com",
+    "project_id": "teste-57287",
+    "storage_bucket": "teste-57287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947891305588:android:979d5ef9805ef648932521",
+        "android_client_info": {
+          "package_name": "teste.teste.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947891305588-56vh16j49p4ckv7t2re7ic91cm6p6k89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9gRnoJNT9hR_prBp2eBaFFHCYRv3w0Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947891305588-56vh16j49p4ckv7t2re7ic91cm6p6k89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947891305588:android:f4c496ec0f3613c7932521",
+        "android_client_info": {
+          "package_name": "uea.thinkted.trico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947891305588-56vh16j49p4ckv7t2re7ic91cm6p6k89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9gRnoJNT9hR_prBp2eBaFFHCYRv3w0Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947891305588-56vh16j49p4ckv7t2re7ic91cm6p6k89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
